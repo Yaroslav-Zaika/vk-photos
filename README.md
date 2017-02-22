@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[Demo](https://yaroslav-zaika.github.io/vk-photos/)
+
 ## Build Setup
 
 ``` bash
